@@ -152,7 +152,7 @@ Server-side error handling with user-friendly messages
 
 👨‍💻 Author
 Your Name
-GitHub: @yourusername
+GitHub: https://github.com/St10245564
 
 📄 License
 This project is licensed under the MIT License.
@@ -160,27 +160,4 @@ This project is licensed under the MIT License.
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss the changes you'd like to make.
 
-markdown
-Copy
-Edit
 
----
-
-### ✅ Next Steps:
-
-1. Paste this into your `README.md` file.
-2. Replace:
-   - `"YOUR_AZURE_BLOB_CONNECTION_STRING"` with your real Azure connection string.
-   - `"YOUR_CONTAINER_NAME"` with your Azure blob container name.
-   - `"Your Name"` and `@yourusername` with your actual name and GitHub username.
-
-Would you also like a sample `IBlobService.cs` + `BlobService.cs` for the image upload logic?
-
-
-
-
-
-
-
-
-Ask ChatGPT
