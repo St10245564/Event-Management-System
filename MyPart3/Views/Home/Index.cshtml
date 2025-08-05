@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Welcome to EventEase</h2>
+
+<div class="row mt-4">
+    <div class="col-md-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Venues</h5>
+                <p class="card-text display-4">@ViewBag.VenueCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Events</h5>
+                <p class="card-text display-4">@ViewBag.EventCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-warning mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Bookings</h5>
+                <p class="card-text display-4">@ViewBag.BookingCount</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mt-4">
+    <a class="btn btn-outline-primary" asp-controller="Venue" asp-action="Index">Manage Venues</a>
+    <a class="btn btn-outline-success" asp-controller="Event" asp-action="Index">Manage Events</a>
+    <a class="btn btn-outline-warning" asp-controller="Booking" asp-action="Index">Manage Bookings</a>
+</div>

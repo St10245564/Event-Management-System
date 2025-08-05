@@ -1,0 +1,60 @@
+﻿@model MyPart3.Models.Venue
+@{
+    ViewData["Title"] = "Create Venue";
+}
+
+<h2>Create Venue</h2>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Location" class="control-label"></label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Capacity" class="control-label"></label>
+        <input asp-for="Capacity" class="form-control" />
+        <span asp-validation-for="Capacity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EventTypeId" class="control-label">Event Type</label>
+        <select asp-for="EventTypeId" class="form-control"
+                asp-items="@(new SelectList((IEnumerable<MyPart3.Models.EventType>)ViewData["EventTypes"], "Id", "Name"))">
+            <option value="">-- Select Event Type --</option>
+        </select>
+        <span asp-validation-for="EventTypeId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Upload Image</label>
+        <input type="file" name="image" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a asp-action="Index">Back to List</a>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

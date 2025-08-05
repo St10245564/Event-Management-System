@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MyPart3.Models.Booking>
+@{
+    ViewData["Title"] = "Bookings";
+}
+
+<h2>Bookings</h2>
+
+<form method="get" asp-action="Index">
+    <p>
+        Search: <input type="text" name="search" value="@Context.Request.Query["search"]" />
+        Event Type: <input type="text" name="eventType" value="@Context.Request.Query["eventType"]" />
+        Start Date: <input type="date" name="startDate" value="@Context.Request.Query["startDate"]" />
+        End Date: <input type="date" name="endDate" value="@Context.Request.Query["endDate"]" />
+        Available: <input type="checkbox" name="available" value="true" @(Context.Request.Query["available"] == "true" ? "checked" : "") />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Event</th>
+            <th>Venue</th>
+            <th>Booking Date</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var booking in Model)
+        {
+            <tr>
+                <td>@booking.Event.Name</td>
+                <td>@booking.Venue.Name</td>
+                <td>@booking.BookingDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@booking.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@booking.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create">Create New Booking</a>

@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Venue\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115D098-89DA-40F2-9EB9-5A2E7CCE8A17}|MyPart3\\MyPart3.csproj|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\mypart3\\mypart3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1115D098-89DA-40F2-9EB9-5A2E7CCE8A17}|MyPart3\\MyPart3.csproj|solutionrelative:mypart3\\mypart3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\VenueController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Controllers\\VenueController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Services\\IBlobService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Services\\IBlobService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Models\\Venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Services\\BlobService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Services\\BlobService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\ViewModels\\BookingFilterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\ViewModels\\BookingFilterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\EventType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Models\\EventType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Models\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\EventTypeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Controllers\\EventTypeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\BookingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Controllers\\BookingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\EventController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Controllers\\EventController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Event\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Event\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Event\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Event\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Venue\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Venue\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Venue\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Booking\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Booking\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Booking\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Booking\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Booking\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Venue\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyPart3\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "MyPart3\\Controllers\\VenueController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:24:19.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Program.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Program.cs",
+              "RelativeToolTip": "MyPart3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:04:34.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Venue\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:48:00.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyPart3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:48:57.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\appsettings.json",
+              "RelativeDocumentMoniker": "MyPart3\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\appsettings.json",
+              "RelativeToolTip": "MyPart3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T02:05:53.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBlobService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Services\\IBlobService.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Services\\IBlobService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Services\\IBlobService.cs",
+              "RelativeToolTip": "MyPart3\\Services\\IBlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:28:00.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Venue.cs",
+              "RelativeToolTip": "MyPart3\\Models\\Venue.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:50:25.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Services\\BlobService.cs",
+              "RelativeToolTip": "MyPart3\\Services\\BlobService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:03:06.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingFilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\ViewModels\\BookingFilterViewModel.cs",
+              "RelativeDocumentMoniker": "MyPart3\\ViewModels\\BookingFilterViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\ViewModels\\BookingFilterViewModel.cs",
+              "RelativeToolTip": "MyPart3\\ViewModels\\BookingFilterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:10:52.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Event.cs",
+              "RelativeToolTip": "MyPart3\\Models\\Event.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:51:25.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Booking.cs",
+              "RelativeToolTip": "MyPart3\\Models\\Booking.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:57:38.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\EventType.cs",
+              "RelativeToolTip": "MyPart3\\Models\\EventType.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:52:18.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Models\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyPart3\\Models\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:58:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\EventTypeController.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Controllers\\EventTypeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\EventTypeController.cs",
+              "RelativeToolTip": "MyPart3\\Controllers\\EventTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:44:02.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyPart3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:43:12.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "MyPart3\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:12:57.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "MyPart3\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Controllers\\EventController.cs",
+              "RelativeToolTip": "MyPart3\\Controllers\\EventController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:27:02.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T04:29:39.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T04:26:46.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T04:05:54.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T04:12:16.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Delete.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Venue\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:58:06.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Venue\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Details.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Venue\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:57:20.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Edit.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Venue\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:52:04.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Booking\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Details.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Booking\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:45:26.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Booking\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Delete.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Booking\\Delete.cshtml",
+              "ViewState": "AgIAABsAAADA+RcDdP4ewAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:44:33.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:10:54.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:05:24.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAA0JaXNLQBwAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:12:38.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T02:31:53.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:24:19.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:22:40.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:22:04.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:21:27.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPart3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyPart3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T03:02:49.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyPart3.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\MyPart3.csproj",
+              "RelativeDocumentMoniker": "MyPart3\\MyPart3.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\MyPart3\\MyPart3\\MyPart3\\MyPart3\\MyPart3.csproj",
+              "RelativeToolTip": "MyPart3\\MyPart3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T02:02:31.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿@model MyPart3.Models.Booking
+
+@{
+    ViewData["Title"] = "Create Booking";
+}
+
+<h2>Create Booking</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="EventId" class="control-label"></label>
+        <select asp-for="EventId" class="form-control"
+                asp-items="@(new SelectList(ViewData["Events"] as IEnumerable<MyPart3.Models.Event>, "Id", "Name"))">
+            <option value="">-- Select Event --</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="VenueId" class="control-label"></label>
+        <select asp-for="VenueId" class="form-control"
+                asp-items="@(new SelectList(ViewData["Venues"] as IEnumerable<MyPart3.Models.Venue>, "Id", "Name"))">
+            <option value="">-- Select Venue --</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="BookingDate" class="control-label"></label>
+        <input asp-for="BookingDate" class="form-control" type="date" />
+    </div>
+
+    <input type="submit" value="Create" class="btn btn-primary" />
+</form>
+
+<a asp-action="Index">Back to List</a>

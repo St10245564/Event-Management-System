@@ -1,0 +1,19 @@
+﻿@model MyPart3.Models.Venue
+@{
+    ViewData["Title"] = "Venue Details";
+}
+
+<h2>Venue Details</h2>
+
+<div>
+    <h4>@Model.Name</h4>
+    <p><strong>Location:</strong> @Model.Location</p>
+    <p><strong>Capacity:</strong> @Model.Capacity</p>
+    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+    {
+        <img src="@Model.ImageUrl" width="300" />
+    }
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+<a asp-action="Index">Back to List</a>
