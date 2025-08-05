@@ -95,7 +95,7 @@ Edit
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/EventManagementSystem.git
+   https://github.com/St10245564/Event-Management-System.git
    cd EventManagementSystem
 Configure appsettings.json:
 
